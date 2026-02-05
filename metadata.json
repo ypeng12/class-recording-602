@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Notes AI",
+  "description": "A high-fidelity class notes application that records lectures in real-time and uses Gemini AI to generate structured, professional, and organized academic notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
